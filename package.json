@@ -1,0 +1,14 @@
+{
+  "name": "language-typoscript",
+  "description": "TypoScript support for Atom",
+  "keywords": [
+    "typo3",
+    "typoscript",
+    "language"
+  ],
+  "repository": "https://github.com/febLey/atom-language-typoscript.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
