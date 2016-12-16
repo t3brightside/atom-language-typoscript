@@ -7,7 +7,7 @@
     "language"
   ],
   "repository": "https://github.com/febLey/atom-language-typoscript.git",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
