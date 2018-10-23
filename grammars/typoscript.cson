@@ -2,6 +2,7 @@
 'scopeName': 'source.typoscript'
 'fileTypes': [
   'ts'
+  'typoscript'
   'txt'
 ]
 'foldingStartMarker': '/\\*\\*|\\{\\s*$'
